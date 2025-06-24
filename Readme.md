@@ -48,10 +48,15 @@ This project aims to perform end-to-end sales analytics using the Global Superst
 
 ## 🚀 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Pinkkygold/global-superstore-analytics.git
+View the project on GitHub:  
+🔗 [Global Superstore Analytics](https://github.com/Pinkkygold/global-superstore-analytics/tree/main)
 
+Clone the repository:
+
+```bash
+git clone https://github.com/Pinkkygold/global-superstore-analytics.git
+
+```
 ---
 
    🙌 Acknowledgements
