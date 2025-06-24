@@ -27,7 +27,8 @@ This project aims to perform end-to-end sales analytics using the Global Superst
 
 ## 📷 Dashboard Preview
 
-<img width="867" alt="Global SuperStore " src="https://github.com/user-attachments/assets/42562996-a6dd-4f1d-af97-b59488b9a572" />
+<img width="867" alt="GlobalSS" src="https://github.com/user-attachments/assets/9bdae613-a80d-431c-95f2-f45249b760bb" />
+
 
 ### Highlights:
 - **Total Sales**: 12.6M  
