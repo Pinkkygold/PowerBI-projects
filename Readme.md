@@ -34,7 +34,7 @@ This project aims to perform end-to-end sales analytics using the Global Superst
 - **Total Sales**: 12.6M  
 - **Total Profit**: 1.46M  
 - **Top Segment**: Consumer (51.48% of sales)  
-- **Top Category**: Furniture (37.53% of sales)  
+- **Top Category**: Teachnologies (37.53% of sales)  
 - **Peak Sales Month**: November & December (1.6M each)
 
 ---
