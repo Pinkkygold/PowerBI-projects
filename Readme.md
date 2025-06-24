@@ -27,7 +27,7 @@ This project aims to perform end-to-end sales analytics using the Global Superst
 
 ## 📷 Dashboard Preview
 
-<img width="867" alt="GlobalSS" src="https://github.com/user-attachments/assets/9bdae613-a80d-431c-95f2-f45249b760bb" />
+<img width="867" alt="GlobalSS" src="https://github.com/user-attachments/assets/d233717e-c0d3-4eed-834a-6127d60084af" />
 
 
 ### Highlights:
