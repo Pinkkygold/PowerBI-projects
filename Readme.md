@@ -27,7 +27,7 @@ This project aims to perform end-to-end sales analytics using the Global Superst
 
 ## 📷 Dashboard Preview
 
-![Dashboard](<img width="867" alt="Global SuperStore " src="https://github.com/user-attachments/assets/42562996-a6dd-4f1d-af97-b59488b9a572" />)
+<img width="867" alt="Global SuperStore " src="https://github.com/user-attachments/assets/42562996-a6dd-4f1d-af97-b59488b9a572" />
 
 ### Highlights:
 - **Total Sales**: 12.6M  
@@ -51,3 +51,21 @@ This project aims to perform end-to-end sales analytics using the Global Superst
 1. Clone the repository:
    ```bash
    git clone https://github.com/Pinkkygold/global-superstore-analytics.git
+
+---
+
+   🙌 Acknowledgements
+
+Dataset: Global Superstore Dataset ->  [Global Superstore.xlsx](https://github.com/Pinkkygold/global-superstore-analytics/blob/main/Global%20Superstore.xlsx)
+Thanks to the Data Science and Power BI communities for their resources and tutorials!
+
+---
+
+📬 Contact
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/awab-abdalla) or follow my projects on [GitHub](https://github.com/Pinkkygold) for more collaborations and updates!
+
+
+⭐ If you liked this project, don't forget to star this repo and share your feedback!
+
+
