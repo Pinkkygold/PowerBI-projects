@@ -1,77 +1,77 @@
-# 📊 Global Superstore Sales Analytics (Power BI)
+# Power BI Projects Portfolio
 
-Welcome to my first Data Science project! This analytics dashboard explores the **Global Superstore** sales dataset using **Power BI**, offering insights into sales performance across segments, categories, markets, and time.
+A collection of my Power BI projects showcasing data analysis, visualization, and business intelligence capabilities.
 
----
+## 📊 Projects
 
-## 🗂️ Project Overview
+### [Data Cleaning & Sales Consolidation](DataCleaning%20Project%20copy/)
+**Description:** A Power BI project focused on cleaning and structuring raw sales data from multiple regions, ensuring consistency and accuracy for analysis.
 
-This project aims to perform end-to-end sales analytics using the Global Superstore dataset, including:
+**Key Features:**
+- Removal of currency symbols and number standardization
+- Employee identifier merging and validation
+- Regional label standardization
+- Preparation for visualization and analysis
 
-- Sales & Profit Trends
-- Regional and Segment Analysis
-- Best-selling Products
-- Monthly and State-level Performance
+**Skills Demonstrated:**
+- Power Query transformations
+- Data quality management
+- Data validation techniques
+- Excel to Power BI workflow
 
----
-
-## 🔍 Key Features
-
-- 📈 **Power BI Interactive Dashboard**  
-- 🌍 Sales by **State**, **Category**, **Segment**, and **Market**
-- 📊 Monthly sales & profit trend visualizations
-- 🎯 Category & Segment contribution to Total Sales
-- 💡 Identification of top-performing product categories and underperformers
-
----
-
-## 📷 Dashboard Preview
-
-<img width="867" alt="GlobalSS" src="https://github.com/user-attachments/assets/d233717e-c0d3-4eed-834a-6127d60084af" />
-
-
-### Highlights:
-- **Total Sales**: 12.6M  
-- **Total Profit**: 1.46M  
-- **Top Segment**: Consumer (51.48% of sales)  
-- **Top Category**: Teachnologies (37.53% of sales)  
-- **Peak Sales Month**: November & December (1.6M each)
+**Dashboard Preview:**
+<img width="988" height="551" alt="Sales Data Cleaning Dashboard" src="https://github.com/user-attachments/assets/31d2a116-2c20-49f9-8899-1ca2a69ca7da" />
 
 ---
 
-## 🛠 Tools Used
+### [Global Superstore Sales Analytics](global-superstore-analytics/)
+**Description:** My first Data Science project exploring the Global Superstore dataset with comprehensive sales performance insights across segments, categories, and markets.
 
-- **Power BI** – for dashboard development and interactive visualization
-- **Microsoft Excel** – for data cleaning and exploration
-- **Git & GitHub** – version control and project sharing
+**Key Features:**
+- Sales & Profit Trends analysis
+- Regional and Segment performance
+- Best-selling products identification
+- Monthly and State-level performance metrics
+
+**Highlights:**
+- **Total Sales:** 12.6M
+- **Total Profit:** 1.46M
+- **Top Segment:** Consumer (51.48% of sales)
+- **Top Category:** Technologies (37.53% of sales)
+
+**Dashboard Preview:**
+<img width="867" alt="Global Superstore Dashboard" src="https://github.com/user-attachments/assets/d233717e-c0d3-4eed-834a-6127d60084af" />
+
+## 🛠️ Technical Skills
+
+- **Data Preparation:** Power Query, Data Cleaning, Transformation
+- **Data Modeling:** Star Schema, Relationships, DAX
+- **Visualization:** Interactive Dashboards, Charts, KPI Reports
+- **DAX:** Calculated Columns, Measures, Time Intelligence
+- **Tools:** Power BI, Excel, Git
+
+## 🚀 Getting Started
+
+To explore any project:
+1. Navigate to the project folder
+2. Open the `.pbix` file in Power BI Desktop
+3. Review the data sources and transformations in Power Query
+
+## 📈 Future Projects
+
+This repository will be updated with new Power BI projects including:
+- [ ] Advanced Sales Analytics Dashboards
+- [ ] Financial Reporting Systems
+- [ ] Customer Behavior Analysis
+- [ ] Operational Metrics Dashboards
+- [ ] Real-time Business Intelligence Solutions
+
+## 📫 Contact
+
+- **Author:** Awab Idris
+- **GitHub:** [@Pinkkygold](https://github.com/Pinkkygold)
+- **LinkedIn:** [Awab Abdalla](https://www.linkedin.com/in/awab-abdalla)
 
 ---
 
-## 🚀 How to Run
-
-View the project on GitHub:  
-🔗 [Global Superstore Analytics](https://github.com/Pinkkygold/global-superstore-analytics/tree/main)
-
-Clone the repository:
-
-```bash
-git clone https://github.com/Pinkkygold/global-superstore-analytics.git
-
-```
----
-
-   🙌 Acknowledgements
-
-Dataset: Global Superstore Dataset ->  [Global Superstore.xlsx](https://github.com/Pinkkygold/global-superstore-analytics/blob/main/Global%20Superstore.xlsx)
-Thanks to the Data Science and Power BI communities for their resources and tutorials!
-
----
-
-📬 Contact
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/awab-abdalla) or follow my projects on [GitHub](https://github.com/Pinkkygold) for more collaborations and updates!
-
-
-⭐ If you liked this project, don't forget to star this repo and share your feedback!
-
-
+*⭐ If you find these projects helpful, don't forget to star this repository!*
